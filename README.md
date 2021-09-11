@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Manoj Dilshan.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning python,java and sql.
+- 📫 You can contact me on Whatsapp @ +947795487410
